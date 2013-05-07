@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/compro/!svn/ver/5/system/application/modules/gallery/views
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/compro/!svn/ver/5/system/application/modules/gallery/views/content.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/compro/!svn/ver/5/system/application/modules/gallery/views/form.php
+END
+output_html.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/compro/!svn/ver/5/system/application/modules/gallery/views/output_html.php
+END
+upload_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/compro/!svn/ver/8/system/application/modules/gallery/views/upload_form.php
+END

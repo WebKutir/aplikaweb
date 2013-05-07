@@ -1,0 +1,127 @@
+perubahan jbt
+E:\xampp\htdocs\s\jbt\apps\cms\modules\aboutus\views\content.php
+E:\xampp\htdocs\s\jbt\apps\cms\modules\home\views\blocks_feature.php
+E:\xampp\htdocs\s\jbt\apps\cms\modules\home\views\blocks_multimedia.php
+E:\xampp\htdocs\s\jbt\apps\cms\modules\home\views\blocks_4news.php
+E:\xampp\htdocs\s\jbt\apps\cms\modules\photogallery\views\content.php
+E:\xampp\htdocs\s\jbt\apps\cms\modules\photogallery\views\content_detail.php
+E:\xampp\htdocs\s\jbt\apps\cms\modules\features\views\content_detail.php
+E:\xampp\htdocs\s\jbt\public\themes\jendela_bidik\css\style.css
+E:\xampp\htdocs\s\jbt\apps\cms\views\shared\template\template_wp.php
+
+###################
+DEP.Bank.Jumlah
+0838 7377 0584
+###################
+
+Berikut hasil review untuk minta tolongnya.. :)
+1. Untuk navigation: cssnya ancur un..please help me!!
+2. Akun: update dan delete hanya bisa dilakukan apabila belum dipakai dalam transaksi
+3. Transaksi: 
+    - Insert transaksi : hanya bisa menyimpan kalo jumlah debit = jumlah kredit, lalu dropdown menu akun yang muncul hanya akun yang tidak mempunyai anak. Misal harta, harta punya anak yaitu aktiva lancar dll.. Nah, si harta jangan dimasukin dalam dropdown menu akun.
+    - View transaksi : udah okkay,, hanya saja tolong dibuat setiap satu baris itu per tanggal. Bisa diliat dari word yang terakhir fizah kirim.
+4. Data user masih ada beberapa yang gag jalan. Fizah mau berusaha sendiri dulu,,
+
+Fizah juga sekarang sedang buat logo, icon dan analisis laporannya..
+
+Thanks,
+Fizah
+
+.keyup
+.val
+
+==============================
+Setiap penginstallan aplikasi java di Samsung Champ, hanya dibatasi 500kb/aplikasi. Untuk mengatasinya hanya dibutuhkan tombol dari keypad ketikan *#52828378# , terus ke OTA test , lalu pada Maximum JAR size (KB) , isi terserah... idealnya 2048kb (2mb) maximal 4096 (4mb).
+
+Buka Menu> Pengaturan> Aplikasi> Internet> Profil Internet> Lainnya> Membuat :
+Nama setting : Axis-GPRS
+Home url : http://wap.axisworld.co.id
+Bearer : GPRS saja
+Proksi : Aktif (aktifkan)
+Alamat : 10.8.3.8
+Port : 8080
+DNS1 : 0.0.0.0
+DNS2 : 0.0.0.0
+klik Pengaturan GPRS
+Nama akses : axis
+ID pemakai : axis
+Kata sandi : 123456
+Simpan>
+Simpan>
+lalu tandai bulatan (klik lingkaran) disamping tulisan Axis-GPRS
+selesai.
+
+yang dikerjain anjar
+1. MANAGEAKUN -> CRUD
+2. LAPORAN buku besar -> VIEW
+
+
+Laporan Laba Rugi
+Pendapatan (Kelompok 4)
+Semua akun di kelompok 4
+Pengeluaran (Kelompok 5)
+Semua akun di kelompok 5
+Total
+= Total biaya di setiap akun 4
+= Total biaya di setiap akun kelompok 5
+= Total Pendapatan – Total Pengeluaran
+
+
+
+
+===========================================================
+Manage Akun 
+-Tambah(akun) 
+-Edit(akun)
+-Hapus(akun)
+
+Transaksi
+-View transaksi 
+-Tambah Transaksi 
+-Edit Transaksi 
+-Report 
+
+Laporan:
+Laporan Buku Besar
+- View Laporan
+-Report 
+
+Laporan Keuangan
+-View Laporan
+-Report 
+
+Neraca Saldo
+-View Neraca Saldo
+-Report 
+
+Analisis Laporan Keuangan
+-View Analisis Laporan Keuangan
+-Report
+
+Nah, untuk tampilan laporan, kita perlu bertemu, tapi fizah sampai senin musti stay di kantor (cibubur), bisakah mas anjar bertemu di cibubur?? Agar pekerjaannya tidak sia-sia.. Thank..
+
+Kabari secepatnya yaa..
+Ohh ya sesuai ksepekatan kita harganya jangan mahal-mahal yaa.. :) Harga temen ajjaa,, mudah2an fizah ngasih job yang laennya.. :)
+
+Fizah
+
+==============================================================
+Mas Anjar,
+
+Berikut terlampir bahan untuk Laporan Laba Rugi dan Neraca Saldo..
+
+Untuk menu laporan ada dropdown:
+- Buku besar
+- Laba Rugi
+- Neraca Saldo
+
+Mudah2an 2 minggu ke depan sudah beres..
+Jadi bisa di review.. untuk pertemuan selanjutnya kita lakukan tanggal 9 yaa..
+
+Thanks,
+Fizah
+
+NB: 
+Untuk invoice, sudah dianggarkan ke kantor (bonus dr kantor)..
+Mudah2an jumat bisa beres dan hari senin bisa ditransfer..
+Thanks..

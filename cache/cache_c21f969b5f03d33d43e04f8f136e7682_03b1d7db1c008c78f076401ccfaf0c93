@@ -1,0 +1,63 @@
+                      -715831295<script>
+$(document).ready(function(){
+  $("a#style").fancybox({
+    'titlePosition' : 'over',
+    'overlayColor'  : '#000',
+    'overlayOpacity': 0.9,
+    'transitionIn'  : 'elastic',
+    'transitionOut' : 'elastic'
+  });
+});
+</script>
+
+<style>
+div.img
+  {
+  margin:2px;
+  border:1px solid #000000;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+div.img img
+  {
+  display:inline;
+  margin:3px;
+  border:1px solid #ffffff;
+  }
+div.img a:hover img
+  {
+  border:1px solid #0000ff;
+  }
+div.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:120px;
+  margin:2px;
+  } 
+</style>
+
+		
+    
+    		
+			<div class="port">
+      <p><a id="style" href="http://aplikaweb.com/myupload/gallery/c0a826a1483879483bd0b09eb689d559.jpg" title="rt3" ><img alt="rt3" width="200" height="130" src="http://aplikaweb.com/myupload/gallery/thumbs/c0a826a1483879483bd0b09eb689d559.jpg" /></a></p>
+        <h4>rt3</h4>
+      </div>
+				
+			<div class="port">
+      <p><a id="style" href="http://aplikaweb.com/myupload/gallery/c0dc6ed8b8ffbdf8ad6d83353ff76f0c.jpg" title="rt2" ><img alt="rt2" width="200" height="130" src="http://aplikaweb.com/myupload/gallery/thumbs/c0dc6ed8b8ffbdf8ad6d83353ff76f0c.jpg" /></a></p>
+        <h4>rt2</h4>
+      </div>
+				
+			<div class="port">
+      <p><a id="style" href="http://aplikaweb.com/myupload/gallery/b93f30e67adfd55a6eae16cbd3f4ce9b.jpg" title="rt1" ><img alt="rt1" width="200" height="130" src="http://aplikaweb.com/myupload/gallery/thumbs/b93f30e67adfd55a6eae16cbd3f4ce9b.jpg" /></a></p>
+        <h4>rt1</h4>
+      </div>
+		
+
+
+
+
